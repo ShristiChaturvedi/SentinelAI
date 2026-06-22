@@ -153,7 +153,7 @@ python -m streamlit run dashboard.py
 
 ### MITRE ATT&CK Mapping
 
-![MITRE Mapping](mitre_mapping.png)
+![MITRE Mapping](mitra_mapping.png)
 
 ---
 
