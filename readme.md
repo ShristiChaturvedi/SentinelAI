@@ -137,6 +137,25 @@ python -m streamlit run dashboard.py
 | Response Actions      | Manual          | Automated           |
 
 ---
+## System Screenshots
+
+### SentinelAI Dashboard
+
+<img src="screenshots/dashboard_1.png" width="900">
+
+### Security Analytics Overview
+
+<img src="screenshots/dashboard_2.png" width="900">
+
+### AI Threat Analysis Engine
+
+<img src="screenshots/threat_analysis.png" width="900">
+
+### MITRE ATT&CK Threat Mapping
+
+<img src="screenshots/mitre_mapping.png" width="900">
+
+---
 
 ## Business Impact
 
