@@ -162,7 +162,17 @@ python -m streamlit run dashboard.py
 
 ## Authors
 
-Developed as part of a Cybersecurity and AI Innovation Hackathon Project.
+## Author
+
+Shristi Chaturvedi
+
+Project developed for a Cybersecurity and AI Innovation Hackathon.
+
+Areas:
+- Cybersecurity
+- Artificial Intelligence
+- Threat Detection
+- Security Analytics
 
 ### Project Name
 
