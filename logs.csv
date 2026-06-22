@@ -1,0 +1,9 @@
+user,hour,failed_logins,data_downloaded
+Alice,9,0,10
+Bob,10,1,15
+Charlie,11,0,20
+David,3,8,200
+Eve,2,10,300
+John,9,0,12
+Sarah,10,1,18
+Mike,23,7,250
