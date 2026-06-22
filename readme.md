@@ -141,19 +141,19 @@ python -m streamlit run dashboard.py
 
 ### Main Dashboard
 
-![Dashboard 1](screenshots/dashboard_1.png)
+![Dashboard 1](dashboard_1.png)
 
 ### Security Monitoring Overview
 
-![Dashboard 2](screenshots/dashboard_2.png)
+![Dashboard 2](dashboard_2.png)
 
 ### AI Threat Analysis
 
-![Threat Analysis](screenshots/threat_analysis.png)
+![Threat Analysis](threat_analysis.png)
 
 ### MITRE ATT&CK Mapping
 
-![MITRE Mapping](screenshots/mitre_mapping.png)
+![MITRE Mapping](mitre_mapping.png)
 ---
 
 ## Business Impact
