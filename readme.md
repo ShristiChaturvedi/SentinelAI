@@ -160,8 +160,6 @@ python -m streamlit run dashboard.py
 
 ---
 
-## Authors
-
 ## Author
 
 Shristi Chaturvedi
